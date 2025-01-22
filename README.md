@@ -32,16 +32,33 @@ Just starting with a personal Github, so bear with...
 
 A simple, interactive profile card React component featuring:
 
-Interactive Like button with state management
-Share menu dropdown
-Modern UI with Tailwind CSS
-Lucide icons integration
+- Interactive Like button with state management
+- Share menu dropdown
+- Modern UI with Tailwind CSS
+- Lucide icons integration
+
+
+### [Focus](https://github.com/sgrisak/focus)
+
+Daily focus app
+
+- Date/Time Operations
+- Local Storage
+- Content Editable HTML Elements
+
+
+### [SVG Fun](https://github.com/sgrisak/svg-fun)
+
+Just a quick, little showcase of SVG sizing, placement, and artwork.
+
+- SVG
+- JS in SVG
+- SVG Art
+  
 
 <!--
-
 ### [Another Project](link-to-repo)
 Short description of the project.
-
 -->
 
 ## 🌱 Learning

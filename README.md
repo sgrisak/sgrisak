@@ -61,6 +61,8 @@ A simple animation with a lot of bezier timings of multiple elements
 
 - CSS animations
 - No JS
+
+  
 <!--
 ### [Another Project](link-to-repo)
 Short description of the project.
@@ -70,15 +72,18 @@ Short description of the project.
 
 I'm currently learning or diving deeper into:
 
+- Vue
 - React Native
 - React
-- Hugo / Jamstack
+- Hugo / Jekyll / Jamstack
 
 I'm putting it all out here to keep myself accountable.
+
 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/sgrisak/)
+  
 
 ## ⚡ Fun facts (AKA, get to know me better):
 

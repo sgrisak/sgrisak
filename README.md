@@ -26,7 +26,6 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 
 ## 🚀 Projects
 
-Just starting with a personal Github, so bear with...
 
 ### [Interactive Card Component](https://github.com/sgrisak/interactive-profile-card)
 
@@ -54,8 +53,14 @@ Just a quick, little showcase of SVG sizing, placement, and artwork.
 - SVG
 - JS in SVG
 - SVG Art
-  
 
+
+### [fanny](https://github.com/sgrisak/fanny)
+
+A simple animation with a lot of bezier timings of multiple elements
+
+- CSS animations
+- No JS
 <!--
 ### [Another Project](link-to-repo)
 Short description of the project.

@@ -27,6 +27,15 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 ## 🚀 Projects
 
 
+### [Rock, Paper, Scissors game](https://github.com/sgrisak/rock-paper-scissors)
+
+A simple Rock - Paper - Scissors game in vanilla JS.
+
+- Javascript
+- Font Awesome
+- Math.random()
+
+
 ### [Interactive Card Component](https://github.com/sgrisak/interactive-profile-card)
 
 A simple, interactive profile card React component featuring:

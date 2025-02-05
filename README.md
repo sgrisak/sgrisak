@@ -26,6 +26,15 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 
 ## 🚀 Projects
 
+### vueDemo1
+
+This is just a quick demo on my side project of learning Vue.js. As I am serving the main branch of the repo, this project will continue to evolve.
+
+- VueJS
+
+🔗 [View Live Evolving Demo](https://sgrisak.github.io/vueDemo1/)
+
+
 
 ### [Rock, Paper, Scissors game](https://github.com/sgrisak/rock-paper-scissors)
 
@@ -35,10 +44,12 @@ A simple Rock - Paper - Scissors game in vanilla JS.
 - Font Awesome
 - Math.random()
 
+🔗 [Play the game!](https://sgrisak.github.io/rock-paper-scissors/)
+
 
 ### [Interactive Card Component](https://github.com/sgrisak/interactive-profile-card)
 
-A simple, interactive profile card React component featuring:
+An interactive React profile card component featuring:
 
 - Interactive Like button with state management
 - Share menu dropdown
@@ -48,29 +59,34 @@ A simple, interactive profile card React component featuring:
 
 ### [Focus](https://github.com/sgrisak/focus)
 
-Daily focus app
+Daily focus app that can show an image, display the current local time and has editable HTML elements.
 
 - Date/Time Operations
 - Local Storage
 - Content Editable HTML Elements
 
+🔗 [View Live Demo](https://sgrisak.github.io/focus/)
+
 
 ### [SVG Fun](https://github.com/sgrisak/svg-fun)
 
-Just a quick, little showcase of SVG sizing, placement, and artwork.
+A showcase of SVG sizing, placement, and artwork. Honestly, this was more for me to come back and reference than anything else.
 
 - SVG
 - JS in SVG
 - SVG Art
 
+🔗 [View Live Demo](https://sgrisak.github.io/svg-fun/)
+
 
 ### [fanny](https://github.com/sgrisak/fanny)
 
-A simple animation with a lot of bezier timings of multiple elements
+An experiment with an animation that includes a lot of bezier timings of multiple elements
 
 - CSS animations
 - No JS
 
+🔗 [View Live Demo](https://sgrisak.github.io/fanny/)
   
 <!--
 ### [Another Project](link-to-repo)
@@ -81,7 +97,7 @@ Short description of the project.
 
 I'm currently learning or diving deeper into:
 
-- Vue
+- Vue 
 - React Native
 - React
 - Hugo / Jekyll / Jamstack
@@ -96,9 +112,9 @@ I'm putting it all out here to keep myself accountable.
 
 ## ⚡ Fun facts (AKA, get to know me better):
 
-- I make bread. Well, to be more accurate: I make dough. Carbs rule everything around me. I love making sourdough bread, pizza dough, English muffins, and all types of pastas. I also have made tartlettes, scones, and soft pretzels.
+- I make bread. Well, to be more accurate: I make dough. Carbs rule everything around me. I love making sourdough bread, pizza dough, English muffins, and all types of pastas. I also have made tartlettes, scones, soft pretzel bites, and soft pretzels.
 - I used to weld and do sheetmetal work in a factory and now I write code. It was quite a jump.
-- I've been to Kuala Lumpur, Malaysia. We had a team there that I trained on a new software our company started using.
+- I've been to Kuala Lumpur, Malaysia. We had a team there that I trained on a new software for my company.
 
 <!--
 Future ideas...

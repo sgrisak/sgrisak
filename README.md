@@ -26,6 +26,15 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 
 ## 🚀 Projects
 
+### [Coffee REST API](https://github.com/sgrisak/coffee-rest-api)
+
+A simple REST API for managing coffee products. Built with Node.js and Express.
+
+- Node.js
+- Express
+- RESTful API
+  
+
 ### vueDemo1
 
 This is just a quick demo on my side project of learning Vue.js. As I am serving the main branch of the repo, this project will continue to evolve.

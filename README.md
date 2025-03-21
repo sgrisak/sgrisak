@@ -26,6 +26,16 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 
 ## 🚀 Projects
 
+### [My first Cursor app!](https://github.com/sgrisak/rssapp)
+
+A Cursor-built RSS feed app with search, sorting, transcripts, and even an audio player
+
+- Built with Cursor
+- React with Next.js 14 App Router
+- TailwindCSS
+- Firebase Auth, Storage, and Database
+
+
 ### [Coffee REST API](https://github.com/sgrisak/coffee-rest-api)
 
 A simple REST API for managing coffee products. Built with Node.js and Express.

@@ -26,7 +26,7 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 
 ## 🚀 Projects
 
-### [My first Cursor app! Vibe coding... lol!](https://github.com/sgrisak/rssapp)
+### [My first Cursor app! (Vibe coding... lol!)](https://github.com/sgrisak/rssapp)
 
 A Cursor-built RSS feed app with search, sorting, transcripts, and even an audio player
 

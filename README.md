@@ -15,7 +15,7 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 ### 💻 Development & Technologies
 
 - **Web Technologies:** HTML, CSS (SCSS), JavaScript (ES6+)
-- **Version Control:** Git/Github
+- **Version Control:** Git/Github, GitHub Actions
 - **Development Tools:** NPM, NVM, Postman
 
 ### 🛠️ Development Environment

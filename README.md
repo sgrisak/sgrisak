@@ -26,7 +26,7 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 - **Tools & Platforms:** Storybook, WordPress
 - **Design Tools:** Photoshop
 
-## 🚀 Projects
+## 🚀 Projects (Because 'Well done!' is better than 'Well said')
 
 ### [My first Cursor app! (Vibe coding... lol!)](https://github.com/sgrisak/rssapp)
 

@@ -88,6 +88,8 @@ Daily focus app that can show an image, display the current local time and has e
 
 🔗 [View Live Demo](https://sgrisak.github.io/focus/)
 
+🔗 [Bonus Fun](https://sgrisak.github.io/get-a-room/)
+
 
 ### [SVG Fun](https://github.com/sgrisak/svg-fun)
 

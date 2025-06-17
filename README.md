@@ -28,7 +28,7 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 
 ## 🚀 Projects (Because 'Well done!' is better than 'Well said')
 
-### [My first Cursor app! (Vibe coding... lol!)](https://github.com/sgrisak/rssapp)
+### :computer: [My first Cursor app! (Vibe coding... lol!)](https://github.com/sgrisak/rssapp)
 
 A Cursor-built RSS feed app with search, sorting, transcripts, and even an audio player
 
@@ -40,7 +40,7 @@ A Cursor-built RSS feed app with search, sorting, transcripts, and even an audio
 
 
 
-### [Coffee REST API](https://github.com/sgrisak/coffee-rest-api)
+### :coffee: [Coffee REST API](https://github.com/sgrisak/coffee-rest-api)
 
 A simple REST API for managing coffee products. Built with Node.js and Express.
 
@@ -50,7 +50,7 @@ A simple REST API for managing coffee products. Built with Node.js and Express.
 
 
 
-### [Favicon Creator](https://github.com/sgrisak/favicon-creator)
+### 🖼️ [Favicon Creator](https://github.com/sgrisak/favicon-creator)
 
 A simple, browser-based tool for creating 32x32 pixel favicons from any image. No server required - runs entirely in the browser using HTML5 Canvas.
 
@@ -59,7 +59,7 @@ A simple, browser-based tool for creating 32x32 pixel favicons from any image. N
 
   
 
-### [vueDemo1](https://github.com/sgrisak/vueDemo1)
+### 💚 [vueDemo1](https://github.com/sgrisak/vueDemo1)
 
 This is just a quick demo on my side project of learning Vue.js. As I am serving the main branch of the repo, this project will continue to evolve.
 
@@ -69,7 +69,7 @@ This is just a quick demo on my side project of learning Vue.js. As I am serving
 
 
 
-### [Rock, Paper, Scissors game](https://github.com/sgrisak/rock-paper-scissors)
+### 🪨📄✂️ [Rock, Paper, Scissors game](https://github.com/sgrisak/rock-paper-scissors)
 
 A simple Rock - Paper - Scissors game in vanilla JS.
 
@@ -80,7 +80,7 @@ A simple Rock - Paper - Scissors game in vanilla JS.
 🔗 [Play the game!](https://sgrisak.github.io/rock-paper-scissors/)
 
 
-### [Interactive Card Component](https://github.com/sgrisak/interactive-profile-card)
+### 🪪 [Interactive Card Component](https://github.com/sgrisak/interactive-profile-card)
 
 An interactive React profile card component featuring:
 
@@ -90,7 +90,7 @@ An interactive React profile card component featuring:
 - Lucide icons integration
 
 
-### [Focus](https://github.com/sgrisak/focus)
+### ☮️ [Focus](https://github.com/sgrisak/focus)
 
 Daily focus app that can show an image, display the current local time and has editable HTML elements.
 
@@ -103,7 +103,7 @@ Daily focus app that can show an image, display the current local time and has e
 🔗 [Bonus Fun](https://sgrisak.github.io/get-a-room/)
 
 
-### [SVG Fun](https://github.com/sgrisak/svg-fun)
+### 🎨 [SVG Fun](https://github.com/sgrisak/svg-fun)
 
 A showcase of SVG sizing, placement, and artwork. Honestly, this was more for me to come back and reference than anything else.
 
@@ -114,7 +114,7 @@ A showcase of SVG sizing, placement, and artwork. Honestly, this was more for me
 🔗 [View Live Demo](https://sgrisak.github.io/svg-fun/)
 
 
-### [fanny](https://github.com/sgrisak/fanny)
+### 🪭 [fanny](https://github.com/sgrisak/fanny)
 
 An experiment with an animation that includes a lot of bezier timings of multiple elements
 

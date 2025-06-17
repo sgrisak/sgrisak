@@ -12,7 +12,7 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 - **Methodologies:** Agile Methodologies
 - **Documentation & Planning:** Jira & Confluence, Markdown, Obsidian, Microsoft Office (Word, Excel, PowerPoint)
 
-### 💻 Development & Technologies
+### 🖥️ Development & Technologies
 
 - **Web Technologies:** HTML, CSS (SCSS), JavaScript (ES6+)
 - **Version Control:** Git/Github
@@ -25,6 +25,26 @@ Web Developer & Digital Innovation Specialist | Transforming User Experiences at
 - **IDEs & Editors:** Visual Studio Code, WebStorm
 - **Tools & Platforms:** Storybook, WordPress
 - **Design Tools:** Photoshop
+
+### 🌐 Websites I Have Built
+
+#### 🌳 [Timber Top Tree LLC](https://timbertoptreellc.com)
+Professional single page website for a tree service company featuring service information, gallery, and contact form.
+- **Tech Stack:** HTML, CSS, JS, PHP
+- **Features:** Responsive design, image optimization, contact form with email integration, performance monitoring
+- **Hosting:** Deployed through good old SFTP
+
+#### 🔒 [Password Analyzer](https://passwordanalyzer.com)
+Interactive tool that evaluates password strength and provides password generation on the client.
+- **Tech Stack:** Vite, React, Tailwind CSS, Lucide
+- **Features:** Client-side processing (no passwords sent to server), strength algorithms, breach checking
+- **Hosting:** Built with cache busting and hosted statically. No DB, no server calls.
+
+#### <img src="https://cdn.simpleicons.org/ruby/DC143C" width="24" height="24" /> [Scarlet Gem](https://scarletgem.com)
+My personal headquarters and digital portfolio showcasing all my projects, thoughts, and creative work. More than just a portfolio, it's the central hub for my online presence. This domain has been sitting dormant for 15 years and I am just now starting to utilize it. Check back often for the newest updates to content and UI improvements!
+- **Tech Stack:** Vite, React, TypeScript, Tailwind CSS, Framer Motion, Iconify, PostCSS
+- **Features:** Dynamic project showcase, upcoming blog system, component playground, standalone tools (like favicon creator), curated content sections
+- **Hosting:** Automated deployment via GitHub Actions CI/CD pipeline
 
 ## 🚀 Projects (Because 'Well done!' is better than 'Well said')
 

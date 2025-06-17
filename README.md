@@ -38,6 +38,8 @@ A Cursor-built RSS feed app with search, sorting, transcripts, and even an audio
 - Firebase Auth, Storage, and Database
 
 
+
+
 ### [Coffee REST API](https://github.com/sgrisak/coffee-rest-api)
 
 A simple REST API for managing coffee products. Built with Node.js and Express.
@@ -45,6 +47,16 @@ A simple REST API for managing coffee products. Built with Node.js and Express.
 - Node.js
 - Express
 - RESTful API
+
+
+
+### [Favicon Creator](https://github.com/sgrisak/favicon-creator)
+
+A simple, browser-based tool for creating 32x32 pixel favicons from any image. No server required - runs entirely in the browser using HTML5 Canvas.
+
+🔗 [Make some icons!](https://sgrisak.github.io/favicon-creator/)
+
+
   
 
 ### [vueDemo1](https://github.com/sgrisak/vueDemo1)

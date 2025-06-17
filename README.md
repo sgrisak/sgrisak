@@ -151,7 +151,7 @@ I'm putting it all out here to keep myself accountable.
 - I used to weld and do sheetmetal work in a factory and now I write code. It was quite a jump.
 - I've been to Kuala Lumpur, Malaysia. We had a team there that I trained on a new software for my company.
 - Huge nerd, especially sci-fi movies and television! Think: Stranger Things, Lord of the Rings, Star Wars, and The Nightmare Before Christmas, but also comic books and video games.
-- 🔬 Scientists > everyone else (fight me with peer-reviewed studies) | "The good thing about science is that it's true whether or not you believe in it" —NdGT | The good thing about my code is that it works whether or not I understand it
+- "The good thing about science is that it's true whether or not you believe in it" —NdGT | The good thing about my code is that it works whether or not I understand it
 
 <!--
 Future ideas...
